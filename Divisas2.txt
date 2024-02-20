@@ -4,3 +4,4 @@ Franco
 Dolar
 Canadiense
 yen
+peso argentino
