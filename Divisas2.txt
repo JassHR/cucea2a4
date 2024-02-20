@@ -1,0 +1,6 @@
+Euro
+Peso
+Franco
+Dolar
+Canadiense
+yen
