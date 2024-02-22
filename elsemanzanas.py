@@ -9,7 +9,7 @@ if Cantidad == 18 :
         print(f"el descuento secreto es de {descuento}")
 elif Cantidad >= 10 :
     descuento = (Cantidad * Precio) *.10
-    print(f"el descuento secreto es de {descuento}")
+    print(f"el descuento es de {descuento}")
 else :
     print("gracias por comprar")
     
